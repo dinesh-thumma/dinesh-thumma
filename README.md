@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Science & Cyber Security
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Android Development and Deep Learning Models
-- 😄 Pronouns: He/Him
 
 
 # 💻 Tech Stack:
